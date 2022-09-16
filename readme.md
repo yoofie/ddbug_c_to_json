@@ -1,4 +1,4 @@
-# ddbug output parser
+# DDbug C to JSON
 
 This project exists to take [ddbug][0] output text files (based on C projects) and convert them to JSON so that you can create your own custom programs based on the generated JSON & DWARF file data.
 
